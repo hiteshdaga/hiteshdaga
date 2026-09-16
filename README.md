@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=3FD0FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hitesh+%F0%9F%91%8B;Full-Stack+Engineer+%40+Policybazaar;C%23+%2F+.NET+Core+%2B+React;Building+backend+systems+that+scale" alt="Typing SVG" />
+# Hi 👋, I'm Hitesh Daga
 
 </div>
 
+<hr/>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/hitesh-daga-139162200/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hiteshdaga0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/hiteshdaga">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+**Software Development Engineer II | C# • .NET Core • React**
+
+Building backend automation systems and full-stack platforms at scale.
+
+[Portfolio](https://www.hiteshdaga.dev) • [GitHub](https://github.com/hiteshdaga) • [LinkedIn](https://www.linkedin.com/in/hitesh-daga-139162200/) • [Email](mailto:hiteshdaga0@gmail.com)
+
 </div>
 
 <br/>
