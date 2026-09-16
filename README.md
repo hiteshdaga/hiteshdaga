@@ -8,7 +8,7 @@
 
 <div align="center">
 
-**Software Development Engineer II | C# • .NET Core • React**
+**Software Development Engineer II | C# • .NET Core • React • AI Agents**
 
 Building backend automation systems and full-stack platforms at scale.
 
