@@ -15,7 +15,7 @@ Building backend automation systems and full-stack platforms at scale.
 [Portfolio](https://www.hiteshdaga.dev) • [GitHub](https://github.com/hiteshdaga) • [LinkedIn](https://www.linkedin.com/in/hitesh-daga-139162200/) • [Email](mailto:hiteshdaga0@gmail.com)
 
 </div>
-
+<hr/>
 <br/>
 
 ### 👨‍💻 About Me
